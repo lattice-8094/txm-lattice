@@ -1,0 +1,20 @@
+site_name: TXM-Lattice
+theme :
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+nav:
+  - Home: index.md
+  - Projects:
+      - GGHF-TXM: gghf-txm.md
