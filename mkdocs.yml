@@ -1,15 +1,18 @@
 site_name: TXM-Lattice
+
+site_url: https://wq2021.github.io/TXM-Lattice/
+
 theme :
   name: material
   palette:
     - scheme: default
-      primary: indigo
+      primary: white
       accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
+      primary: black
       accent: indigo
       toggle:
         icon: material/weather-sunny
