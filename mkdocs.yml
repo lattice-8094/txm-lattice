@@ -1,9 +1,12 @@
-site_name: TXM-Lattice
+site_name: TXM Lattice
 
-site_url: https://wq2021.github.io/TXM-Lattice/
+site_url: https://lattice-8094.github.io/txm-lattice/
 
 theme :
   name: material
+  language: fr
+  favicon : assets/images/favicon.png
+  logo: assets/images/lattice_carre.png
   palette:
     - scheme: default
       primary: white
@@ -18,6 +21,6 @@ theme :
         icon: material/weather-sunny
         name: Switch to light mode
 nav:
-  - Home: index.md
-  - Projects:
-      - GGHF-TXM: gghf-txm.md
+  - Accueil: index.md
+  - Corpus :
+      - GGHF: gghf-txm.md
