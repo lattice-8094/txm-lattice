@@ -1,10 +1,10 @@
 # Présentation du corpus GGHF
 
-Le corpus GGHF (corpus de la Grande Grammaire Historique du Français) est un corpus de plus de 13 millions de mots qui couvre la période du 9e au 20e siècle. Les textes qui le composent appartiennent à différents domaines et genres, à des dialectes variés et sont écrits en vers et/ou en prose. 
+Le corpus GGHF (corpus de la *Grande Grammaire Historique du Français*) est un corpus de plus de 13 millions de mots qui couvre la période du 9e au 20e siècle. Les textes qui le composent appartiennent à différents domaines et genres, à des dialectes variés et sont écrits en vers et/ou en prose. 
 
 ## Présentation générale
 
-Le corpus GGHF a été constitué dans le cadre du projet éditorial de la Grande Grammaire Historique du Français, parue en 2020 et co-éditée par C. Marchello-Nizia, B. Combettes, S. Prévost et T. Scheer (De Gruyter Mouton). 
+Le corpus GGHF a été constitué dans le cadre du projet éditorial de la *Grande Grammaire Historique du Français*, parue en 2020 et co-éditée par C. Marchello-Nizia, B. Combettes, S. Prévost et T. Scheer (De Gruyter Mouton). 
 
 L’objectif était d’obtenir un corpus aussi représentatif et équilibré que possible de la langue française, de ses origines à la fin du 20e siècle, dans toute la diversité qu’on lui présuppose, tout en constituant un corpus qui reste maniable, tant du point de vue de l’exploration des textes (certains faits sont plus faciles à repérer automatiquement que d’autres), que du traitement des données extraites (selon les phénomènes étudiés, on a affaire à quelques occurrences, ou au contraire à des dizaines de milliers). 
 
@@ -14,7 +14,7 @@ Pour chaque période (voir ci-dessous pour la délimitation des périodes), un d
 
 ### Le corpus noyau échantillonné
 
-Le corpus « noyau échantillonné » (`GGHFECHANT`) répond à des critères de composition stricts quant à la taille des textes et quant à leur diversité. Pour ce qui est de la taille, nous avons retenu les textes dans leur intégralité lorsqu’ils n’excèdent pas 45 000 tokens (occurrences : mots et ponctuation), soit un peu plus de 40 000 mots. Pour les textes dépassant ce seuil, nous avons sélectionné trois échantillons d’environ 15 000 tokens en début, milieu, et fin de texte. Toutefois, pour certains textes, jugés répétitifs du point de vue de leurs structures morphosyntaxiques, la taille de l’échantillon a été réduite à environ 20 000 tokens. C’est le cas, par exemple, du Registre criminel du Chatelet, au 14e s.  
+Le corpus « noyau échantillonné » (`GGHFECHANT`) répond à des critères de composition stricts quant à la taille des textes et quant à leur diversité. Pour ce qui est de la taille, nous avons retenu les textes dans leur intégralité lorsqu’ils n’excèdent pas 45 000 tokens (occurrences : mots et ponctuation), soit un peu plus de 40 000 mots. Pour les textes dépassant ce seuil, nous avons sélectionné trois échantillons d’environ 15 000 tokens en début, milieu, et fin de texte. Toutefois, pour certains textes, jugés répétitifs du point de vue de leurs structures morphosyntaxiques, la taille de l’échantillon a été réduite à environ 20 000 tokens. C’est le cas, par exemple, du *Registre criminel du Chatelet*, au 14e s.  
 
 Pour chaque période le corpus noyau échantillonné comprend entre 200 000 et 245 000 mots, hormis pour la période la plus ancienne, avant 1100, pour laquelle la quasi-totalité des textes disponibles a été retenue, l’ensemble ne dépassant pas 10 000 mots. 
 
@@ -31,7 +31,7 @@ Il existe un corpus « complémentaire », conçu pour l’étude des faits peu 
 Le corpus « intégral » (`GGHFINTEGRAL`), réunit le corpus noyau (non échantillonné) et le corpus complémentaire. Il comprend donc 13 853 187 mots.
 La création de sous-corpus dans `GGHFINTEGRAL` permet d’interroger séparément, si on le souhaite, le corpus noyau non échantillonné et le corpus complémentaire.
 
-![schema_gghf](assets/images/gghf_txm.png)
+![schema_gghf](assets/images/gghf_txm_new.png)
 
 ## Critères de sélection de textes
 
@@ -39,9 +39,9 @@ Différents critères ont été retenus pour la sélection des textes. Certains,
 
 ### Les critères paratextuels
 
-Il était important que le corpus de la GGHF comprenne quelques textes de référence, à côté de textes moins connus La notion de texte de référence est en partie subjective, mais l’on peut identifier comme tel quelques oeuvres, en particulier pour la période médiévale: la Chanson de Roland et un roman de Chrétien de Troyes pour le 12e s., la Queste du Graal et le Roman de la Rose pour le 13e s., même s’il ne s’agit pas des seuls textes de référence pour les périodes concernées. La sélection a été plus difficile au fur et à mesure que l’on avance dans le temps et que se multiplie la production écrite. Le choix, nécessairement partial, a été influencé par la qualité des éditions, ce qui nous a conduit, pour les textes les plus anciens, à privilégier les éditions les moins interventionnistes, et pour la période suivante (du 16e au 19e s.), des textes non (ou très peu) modernisés. 
+Il était important que le corpus de la GGHF comprenne quelques textes de référence, à côté de textes moins connus La notion de texte de référence est en partie subjective, mais l’on peut identifier comme tel quelques oeuvres, en particulier pour la période médiévale: la *Chanson de Roland* et un roman de Chrétien de Troyes pour le 12e s., la *Queste du Graal* et le *Roman de la Rose* pour le 13e s., même s’il ne s’agit pas des seuls textes de référence pour les périodes concernées. La sélection a été plus difficile au fur et à mesure que l’on avance dans le temps et que se multiplie la production écrite. Le choix, nécessairement partial, a été influencé par la qualité des éditions, ce qui nous a conduit, pour les textes les plus anciens, à privilégier les éditions les moins interventionnistes, et pour la période suivante (du 16e au 19e s.), des textes non (ou très peu) modernisés. 
 
-L’existence d’une version numérisée (disponible) des textes a été un critère de sélection supplémentaire. Pour la période médiévale, nous nous sommes très largement appuyés sur les textes de la Base de Français Médiéval (BFM), dont certains sont enrichis linguistiquement (étiquette morpho-syntaxique, et syntaxique pour certains) et deux textes proviennent du corpus Modéliser le Changement : les [Voies du Français](http://www.voies.uottawa.ca/index.html). Pour la période suivante, nous avons majoritairement sélectionné les textes dans la base [Frantext](http://www.frantext.fr/), mais aussi dans la base [Epistemon](http://www.bvh.univ-tours.fr/Epistemon/index.asp).
+L’existence d’une version numérisée (disponible) des textes a été un critère de sélection supplémentaire. Pour la période médiévale, nous nous sommes très largement appuyés sur les textes de la Base de Français Médiéval (BFM), dont certains sont enrichis linguistiquement (étiquette morpho-syntaxique, et syntaxique pour certains) et deux textes proviennent du corpus Modéliser le Changement : les Voies du Français. Pour la période suivante, nous avons majoritairement sélectionné les textes dans la base [Frantext](http://www.frantext.fr/), mais aussi dans la base [Epistemon](http://www.bvh.univ-tours.fr/Epistemon/index.asp).
 
 Les textes retenus l’ont été aussi, et prioritairement, parce qu’ils contribuaient à construire un corpus diversifié et représentatif, au regard des critères présentés ci-dessous.
 

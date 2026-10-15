@@ -1,4 +1,4 @@
-# TXM-Lattice : portail TXM pour explorer et analyser plusieurs corpus de textes. 
+# TXM-Lattice : portail TXM pour explorer et analyser des corpus de textes. 
 
 ## Corpus 
 
@@ -6,16 +6,17 @@ Veuillez consulter les corpus disponibles sur le portail [TXM-Lattice](https://t
 
 ### [GGHF : Grande Grammaire Historique du Français](gghf-txm.md)
 
-Le corpus GGHF (corpus de la Grande Grammaire Historique du Français) est un corpus de plus de 13 millions de mots qui couvre la période du 9e au 20e siècle. Les textes qui le composent appartiennent à différents domaines et genres, à des dialectes variés et sont écrits en vers et/ou en prose.
+Le corpus GGHF (corpus de la *Grande Grammaire Historique du Français*) est un corpus de plus de 13 millions de mots qui couvre la période du 9e au 20e siècle. Les textes qui le composent appartiennent à différents domaines et genres, à des dialectes variés et sont écrits en vers et/ou en prose.
 
 <img src="assets/images/gghf_couverture.jpg" alt="couverture" width="255" height="355"> 
 
-####  Métadonnées
+#### Métadonnées
 - Tableau du corpus GGHF découpé **par périodes** : [cliquez pour visualiser ou télécharger](assets/attachments/CorpusGGHF-Periodes.pdf)
-- Tableau du corpus GGHF découpé **par siècles** :  [cliquez pour visualiser ou télécharger](assets/attachments/CorpusGGHF-Siecles.pdf)
+- Tableau du corpus GGHF découpé **par siècles** : [cliquez pour visualiser ou télécharger](assets/attachments/CorpusGGHF-Siecles.pdf)
 
 #### Documentation
-
+- [Guide simplifié d'interrogation du corpus GGHF](assets/attachments/Interrogation_Corpus-TXM-GGHF.docx)
+- [Présentation TXM-Lattice : guide de prise en main rapide](assets/attachments/TXM-Lattice_slides.pdf)
 
 ## Liens utiles
 - Le [Tutoriel BFM](http://bfm.ens-lyon.fr/spip.php?article297) (qui vous présentera un exemple de session de travail)
