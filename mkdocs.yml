@@ -24,3 +24,5 @@ nav:
   - Accueil: index.md
   - Corpus :
       - GGHF: gghf-txm.md
+extra_css:
+  - stylesheets/extra.css

@@ -84,7 +84,7 @@ Des sous-corpus correspondant aux grandes périodes du français ont par ailleur
 
 - **Très ancien français (TAF)**: 9e - 11e s. 
 - **Ancien français (AF)**: 12e - 13e s. 
-- **Moyen français (MF)**: (1300 - 1550)
+- **Moyen français (MF)**: 1300 - 1550
 - **Français pré-classique (FPrécl)**: 1550 - 1620/1650 
 - **Français classique (FCl)**: 1620/1650 - 1800
 - **Français moderne (FM)**: 1800-2000

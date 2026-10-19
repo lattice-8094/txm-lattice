@@ -24,4 +24,4 @@ Le corpus GGHF (corpus de la *Grande Grammaire Historique du Français*) est un 
 - Le [Tutoriel vidéo](https://www.youtube.com/watch?v=FaLRLCaKmDw) de l'édition numérique de la Queste del saint Graal
 - Le [Manuel de Référence TXM](https://txm.gitpages.huma-num.fr/txm-manual/) en ligne (qui vous présentera tous les outils de TXM)
 - Le [site du projet BFM](http://bfm.ens-lyon.fr/) et notamment [sa section documentation](http://bfm.ens-lyon.fr/spip.php?rubrique141)
-- Le [site du projet Textométrie](https://txm.gitpages.huma-num.fr/textometrie/)(pour en savoir plus sur la plateforme TXM)
+- Le [site du projet Textométrie](https://txm.gitpages.huma-num.fr/textometrie/) (pour en savoir plus sur la plateforme TXM)
