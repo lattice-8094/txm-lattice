@@ -16,7 +16,7 @@ Le corpus GGHF (corpus de la *Grande Grammaire Historique du Français*) est un 
 
 #### Documentation
 - [Guide simplifié d'interrogation du corpus GGHF](assets/attachments/Interrogation_Corpus-TXM-GGHF.docx)
-- [Présentation TXM-Lattice : guide de prise en main rapide](assets/attachments/TXM-Lattice_slides.pdf)
+- [Présentation TXM-Lattice : guide de prise en main rapide](assets/attachments/Presentation_TXM-Lattice.pdf)
 
 ## Liens utiles
 - Le [Tutoriel BFM](http://bfm.ens-lyon.fr/spip.php?article297) (qui vous présentera un exemple de session de travail)
