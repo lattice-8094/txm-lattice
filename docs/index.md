@@ -15,7 +15,7 @@ Le corpus GGHF (corpus de la *Grande Grammaire Historique du Français*) est un 
 - Tableau du corpus GGHF découpé **par siècles** : [cliquez pour visualiser ou télécharger](assets/attachments/CorpusGGHF-Siecles.pdf)
 
 #### Documentation
-- [Guide simplifié d'interrogation du corpus GGHF](assets/attachments/Interrogation_Corpus-TXM-GGHF.docx)
+- [Guide simplifié d'interrogation du corpus GGHF](assets/attachments/Interrogation_Corpus-TXM-GGHF.pdf)
 - [Présentation TXM-Lattice : guide de prise en main rapide](assets/attachments/Presentation_TXM-Lattice.pdf)
 
 ## Liens utiles
